@@ -66,7 +66,7 @@ int _putfd(char c, int fd)
 
 /**
  * _putsfd - input string is printed
- * @str: to print the string 
+ * @str: to print the string
  * @fd: the filedescriptor to write to
  *
  * Return: the number of chars put
