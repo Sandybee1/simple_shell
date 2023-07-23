@@ -1,4 +1,4 @@
 0x16. C - Simple Shell
 
 
-This is my ALX collaboration project on Shell. Partner has deferred
+I was not assigned a partner on this project even after making enquires through different channels.
